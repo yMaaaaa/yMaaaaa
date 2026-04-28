@@ -4,7 +4,7 @@ I’m Matteo (aka yMaaaaa) — a passionate full-stack web developer based in Fr
 I aim to become an application developer and I’m currently learning Java.
 
 🛠️ What I work with:
-✨ Frontend: HTML, CSS, JavaScript, React
+✨ Frontend: React, Angular
 ✨ Backend: Node.js, Python, PHP
 ✨ Databases: MySQL
 
