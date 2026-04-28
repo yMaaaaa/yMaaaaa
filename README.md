@@ -12,7 +12,7 @@ I aim to become an application developer and I’m currently learning Java.
 
 📂 On my GitHub, you’ll find personal projects such as:
 
-- HTML / CSS / JavaScript websites 
+- React / Angular websites 
 - Simple APIs 
 - Practice projects and experiments ⚙️
 - Bunch of privates projects 
