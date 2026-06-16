@@ -1,6 +1,6 @@
-## Hi there 👋
+## Bienvenue sur mon profil ! :) 👋
 
-I'm Matteo (aka yMaaaaa) — étudiant en **BTS SIO option SLAM** près de Pau, France 🇫🇷.
+Je m'appelle Mattéo (aka yMaaaaa) — étudiant en **BTS SIO option SLAM** près de Pau, France 🇫🇷.
 
 Je suis un développeur full-stack passionné qui construit des projets web pratiques, propres et interactifs, de l'idée au déploiement 💡. J'aime apprendre par la pratique, multiplier les terrains de jeu, et passer d'une stack à une autre selon ce que demande le projet — du site Angular pour un client, à une API Python pour automatiser quelque chose, en passant par du PHP pour un script rapide ou du firmware embarqué quand l'occasion se présente.
 
