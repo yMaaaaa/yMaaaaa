@@ -75,4 +75,4 @@ Stages, alternances, collaborations ou opportunités freelance — surtout sur d
 
 ### 📫 Me contacter
 
-👉 [linktr.ee/ymaaaaa](https://linktr.ee/ymaaaaa) — tous mes réseaux et liens
+👉 [ymaaaaa.github.io/Portfolio](https://ymaaaaa.github.io/Portfolio/) — mon portfolio
