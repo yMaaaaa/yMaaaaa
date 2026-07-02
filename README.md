@@ -11,7 +11,7 @@ Mon objectif à moyen terme est de devenir développeur d'applications.
 ### 🔭 Actuellement
 
 - 🎓 En **BTS SIO 2ème année** à la rentrée 2026
-- 💼 En stage chez **Siinova** comme développeur
+- 💼 En tant qu'Intérimaire chez **Siinova** comme développeur
 - ☕ J'apprends **Java** en parallèle pour étoffer mon profil
 - 🎮 Je m'amuse aussi avec du **dev de jeu** (Godot) et un peu de **Rust** sur des projets perso
 
