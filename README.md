@@ -2,7 +2,7 @@
 
 Je m'appelle Mattéo (aka yMaaaaa) — étudiant en **BTS SIO option SLAM** près de Pau, France 🇫🇷.
 
-Je suis un développeur full-stack passionné qui construit des projets web pratiques, propres et interactifs, de l'idée au déploiement 💡. J'aime apprendre par la pratique, multiplier les terrains de jeu, et passer d'une stack à une autre selon ce que demande le projet — du site Angular pour un client, à une API Python pour automatiser quelque chose, en passant par du PHP pour un script rapide ou du firmware embarqué quand l'occasion se présente.
+Je suis un développeur passionné qui construit des projets web pratiques, propres et interactifs, de l'idée au déploiement 💡. J'aime apprendre par la pratique, multiplier les terrains de jeu, et passer d'une stack à une autre selon ce que demande le projet — du site Angular/React pour un client, à une API Python pour automatiser quelque chose, en passant par du PHP pour un script rapide ou du firmware embarqué quand l'occasion se présente.
 
 Mon objectif à moyen terme est de devenir développeur d'applications.
 
@@ -10,10 +10,10 @@ Mon objectif à moyen terme est de devenir développeur d'applications.
 
 ### 🔭 Actuellement
 
-- 🎓 En **BTS SIO 2ème année** à la rentrée 2026
-- 💼 En tant qu'Intérimaire chez **Siinova** comme développeur
+- 🎓 En **BTS SIO 2ème année** 
+- 💼 A la recherche d'un stage du 4 janvier au 19 février **2027**.
 - ☕ J'apprends **Java** en parallèle pour étoffer mon profil
-- 🎮 Je m'amuse aussi avec du **dev de jeu** (Godot) et un peu de **Rust** sur des projets perso
+- 🎮 Je m'amuse aussi avec du **developpement de jeu vidéo** (LibGDX) et un peu de **Rust** sur des projets perso
 
 ---
 
@@ -50,10 +50,6 @@ Mon objectif à moyen terme est de devenir développeur d'applications.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
@@ -61,7 +57,7 @@ Mon objectif à moyen terme est de devenir développeur d'applications.
 
 Sur mon GitHub tu trouveras :
 
-- 🌐 Des **sites React et Angular** réalisés en projets scolaires ou perso
+- 🌐 Des **sites React** réalisés en projets scolaires ou perso
 - 🛠️ Des **APIs et petits outils** en Node.js, Python et PHP
 - ⚙️ Des **expérimentations** et projets de pratique pour apprendre
 - 🔒 Pas mal de **projets privés** sur lesquels je travaille en ce moment
